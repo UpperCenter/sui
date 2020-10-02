@@ -12,7 +12,7 @@ services:
       - nginx-proxy
       - public
     ports:
-      - 4000:80
+      - 4000:443
     volumes:
       - ./:/usr/share/nginx/html
 
