@@ -117,6 +117,14 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                     'color-text-acc': '#8e24aa'
                 });
                 return;
+
+            case 'galaxy':
+                setTheme({
+                    'color-background': '#0f0e17',
+                    'color-text-pri': '#12005e',
+                    'color-text-acc': '#8e24aa'
+                });
+                return;
             
             case 'chalk':
                 setTheme({
@@ -131,14 +139,6 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                     'color-background': '#F8F6F1',
                     'color-text-pri': '#4C432E',
                     'color-text-acc': '#AA9A73'
-                });
-                return;
-
-            case 'galaxy':
-                    setTheme({
-                        'color-background': '#0f0e17',
-                        'color-text-pri': '#4C432E',
-                        'color-text-acc': '#AA9A73'
                 });
                 return;
 
