@@ -121,7 +121,7 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
             case 'galaxy':
                 setTheme({
                     'color-background': '#0f0e17',
-                    'color-text-pri': '#12005e',
+                    'color-text-pri': '#F0F8FF',
                     'color-text-acc': '#8e24aa'
                 });
                 return;
