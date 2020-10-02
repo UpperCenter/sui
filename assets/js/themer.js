@@ -134,6 +134,14 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                 });
                 return;
 
+            case 'galaxy':
+                    setTheme({
+                        'color-background': '#0f0e17',
+                        'color-text-pri': '#4C432E',
+                        'color-text-acc': '#AA9A73'
+                    });
+                    return;
+
         }
     })
 }

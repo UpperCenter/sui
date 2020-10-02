@@ -26,7 +26,7 @@ function handleKeyPress(e) {
         if (text[0] === ';') {
             switch (option) {
                 case 't':
-                    var streamers = ['admiralbahroo', 'moonmoon_ow', 'witwix'];
+                    var streamers = ['sips_', 'pyrionflax', 'yogscast'];
                     if (!subtext || cycle) {
                         cycle = true;
                         if (sindex > streamers.length - 1) sindex = 0;
@@ -59,8 +59,8 @@ function search(text) {
                 case "am":
                     window.location = "https://www.allmusic.com/search/all/" + subtext;
                     break;
-                case "d":
-                    window.location = "https://duckduckgo.com/?q=" + subtext;
+                case "g":
+                    window.location = "https://google.co.uk/?q=" + subtext;
                     break;
                 case "di":
                     window.location = "https://www.discogs.com/search/?q=" + subtext;
@@ -116,7 +116,7 @@ function search(text) {
         else
             window.location = "https://" + text;
     } else {
-        window.location = "https://www.google.com/search?q=" + text;
+        window.location = "https://duckduckgo.com/?q=" + text;
     }
 }
 
