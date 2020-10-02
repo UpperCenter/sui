@@ -122,7 +122,7 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                 setTheme({
                     'color-background': '#0f0e17',
                     'color-text-pri': '#F0F8FF',
-                    'color-text-acc': '#8e24aa'
+                    'color-text-acc': '#F0F8FF'
                 });
                 return;
             
