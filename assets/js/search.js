@@ -72,7 +72,7 @@ function search(text) {
                     window.location = "https://www.themoviedb.org/search?query=" + subtext;
                     break;
                 case "r":
-                    window.location = "https://www.reddit.com/search?q=" + subtext;
+                    window.location = "https://www.reddit.com/r/" + subtext;
                     break;
                 case "q":
                     window.location = "https://www.qwant.com/?q=" + subtext;
