@@ -1,16 +1,64 @@
 {
-    "apps" : [
-        {"name":"Goaccess","url":"rt.derguns.town","icon":"chart-bar-stacked"},
-        {"name":"Admin","url":"derguns.town/admin/","icon":"gavel"},
-        {"name":"CodeServer","url":"code.uppercenter.dev","icon":"vs-code"},
-        {"name":"Nextcloud","url":"cloud.uppercenter.dev","icon":"weather-cloudy"},
-        {"name":"Plex","url":"play.uppercenter.dev","icon":"plex"},
-        {"name":"Portainer","url":"port.uppercenter.dev","icon":"docker"},
-        {"name":"Radarr","url":"movies.uppercenter.dev","icon":"filmstrip"},
-        {"name":"Sonarr","url":"tv.uppercenter.dev","icon":"television-box"},
-        {"name":"Stackedit","url":"md.uppercenter.dev","icon":"markdown"},
-        {"name":"Transmission","url":"dl.uppercenter.dev","icon":"progress-download"},
-        {"name":"Ubooquity","url":"pdfs.uppercenter.dev","icon":"library-shelves"},
-        {"name":"Youtube-DL","url":"yt.uppercenter.dev","icon":"youtube"}
-    ]
+	"apps": [
+		{
+			"name": "Goaccess",
+			"url": "rt.derguns.town",
+			"icon": "chart-bar-stacked"
+		},
+		{
+			"name": "Admin",
+			"url": "derguns.town/admin/",
+			"icon": "gavel"
+		},
+		{
+			"name": "CodeServer",
+			"url": "code.uppercenter.dev",
+			"icon": "vs-code"
+		},
+		{
+			"name": "Nextcloud",
+			"url": "cloud.uppercenter.dev",
+			"icon": "weather-cloudy"
+		},
+		{
+			"name": "Plex",
+			"url": "play.uppercenter.dev",
+			"icon": "plex"
+		},
+		{
+			"name": "Portainer",
+			"url": "port.uppercenter.dev",
+			"icon": "docker"
+		},
+		{
+			"name": "Radarr",
+			"url": "movies.uppercenter.dev",
+			"icon": "filmstrip"
+		},
+		{
+			"name": "Sonarr",
+			"url": "tv.uppercenter.dev",
+			"icon": "television-box"
+		},
+		{
+			"name": "Stackedit",
+			"url": "md.uppercenter.dev",
+			"icon": "markdown"
+		},
+		{
+			"name": "Transmission",
+			"url": "dl.uppercenter.dev",
+			"icon": "progress-download"
+		},
+		{
+			"name": "Ubooquity",
+			"url": "pdfs.uppercenter.dev",
+			"icon": "library-shelves"
+		},
+		{
+			"name": "Youtube-DL",
+			"url": "yt.uppercenter.dev",
+			"icon": "youtube"
+		}
+	]
 }
