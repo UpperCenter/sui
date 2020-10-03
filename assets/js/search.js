@@ -30,7 +30,7 @@ function handleKeyPress(e) {
                     if (!subtext || cycle) {
                         cycle = true;
                         if (sindex > streamers.length - 1) sindex = 0;
-                        document.getElementById("keywords").value = 'https://twitch.tv/' + streamers[sindex++];
+                        document.getElementById("keywords").value = ';t ' + streamers[sindex++];
                         return;
                     }
                     for (var streamer of streamers) {
