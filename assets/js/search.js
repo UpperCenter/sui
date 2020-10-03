@@ -30,12 +30,12 @@ function handleKeyPress(e) {
                     if (!subtext || cycle) {
                         cycle = true;
                         if (sindex > streamers.length - 1) sindex = 0;
-                        document.getElementById("keywords").value = ';t ' + streamers[sindex++];
+                        document.getElementById("keywords").value = 'https://twitch.tv/' + streamers[sindex++];
                         return;
                     }
                     for (var streamer of streamers) {
                         if (subtext === streamer.substr(0, subtext.length)) {
-                            document.getElementById("keywords").value = ';t ' + streamer;
+                            document.getElementById("keywords").value = 'https://twitch.tv/' + streamer;
                             return;
                         }
                     }
