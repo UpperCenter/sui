@@ -10,7 +10,7 @@ function date() {
 	document.getElementById("header_date").innerHTML = date;
 }
 
-Date.prototype.getCurrentTime = function () {
+function getCurrentTime() {
 	return ((this.getHours() < 10) ? "0" : "") + ((this.getHours() > 12) ? (this.getHours() - 12) : this.getHours()) + ":" + ((this.getMinutes() < 10) ? "0" : "") + this.getMinutes() + ":" + ((this.getSeconds() < 10) ? "0" : "") + this.getSeconds() + ((this.getHours() > 12) ? (' PM') : ' AM');
 };
 
