@@ -6,14 +6,19 @@
 			"icon": "chart-bar-stacked"
 		},
 		{
-			"name": "Admin",
-			"url": "derguns.town/admin/",
-			"icon": "gavel"
+			"name": "ProxMox",
+			"url": "172.16.0.69",
+			"icon": "server"
 		},
 		{
 			"name": "CodeServer",
 			"url": "code.uppercenter.dev",
 			"icon": "vs-code"
+		},
+		{
+			"name": "BitWarden",
+			"url": "vault.uppercenter.dev",
+			"icon": "shield-half-full"
 		},
 		{
 			"name": "Nextcloud",
