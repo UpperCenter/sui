@@ -35,7 +35,7 @@ function handleKeyPress(e) {
                     }
                     for (var streamer of streamers) {
                         if (subtext === streamer.substr(0, subtext.length)) {
-                            document.getElementById("keywords").value = 'https://twitch.tv/' + streamer;
+                            document.getElementById("keywords").value = ';t ' + streamer;
                             return;
                         }
                     }
