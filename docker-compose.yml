@@ -7,7 +7,7 @@ services:
     build:
       context: ./
     environment:
-      - VIRTUAL_HOST=test.laserr.net
+      - VIRTUAL_HOST=test.uppercenter.dev
     networks:
       - nginx-proxy
       - public
