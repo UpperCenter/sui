@@ -10,6 +10,7 @@ function date() {
 	document.getElementById("header_date").innerHTML = date;
 }
 
+/*
 function getCurrentTime() {
 	var d = new Date();
 	//var mm = monthNames[d.getMonth()];
@@ -18,6 +19,11 @@ function getCurrentTime() {
 	document.getElementById("time").innerText = d.toLocaleTimeString();
 	setTimeout(displayClock, 1000);
 }
+*/
+
+Date.prototype.getCurrentTime = function () {
+	return ((this.getHours() < 10) ? "0" : "") + ((this.getHours() > 12) ? (this.getHours() - 12) : this.getHours()) + ":" + ((this.getMinutes() < 10) ? "0" : "") + this.getMinutes() + ":" + ((this.getSeconds() < 10) ? "0" : "") + this.getSeconds() + ((this.getHours() > 12) ? (' PM') : ' AM');
+};
 
 function greet() {
 	let currentTime = new Date();
