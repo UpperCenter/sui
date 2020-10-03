@@ -10,7 +10,7 @@ function date() {
 	document.getElementById("header_date").innerHTML = date;
 }
 
-function displayClock() {
+function getCurrentTime() {
 	const monthNames = [
 		"January",
 		"February",
@@ -35,7 +35,7 @@ function displayClock() {
 	document.getElementById("month").innerText = mm;
 	document.getElementById("day").innerText = dd;
 
-	setTimeout(displayClock, 1000);
+	setTimeout(getCurrentTime, 1000);
 }
 
 function greet() {
