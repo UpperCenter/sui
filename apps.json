@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Rancher",
-			"url": "port.uppercenter.dev",
+			"url": "rancher.uppercenter.dev",
 			"icon": "kubernetes"
 		},
 		{
