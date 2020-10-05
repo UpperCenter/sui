@@ -7,7 +7,7 @@
 		},
 		{
 			"name": "ProxMox",
-			"url": "172.16.0.69",
+			"url": "172.16.0.12",
 			"icon": "server"
 		},
 		{
@@ -21,19 +21,9 @@
 			"icon": "shield-half-full"
 		},
 		{
-			"name": "Nextcloud",
-			"url": "cloud.uppercenter.dev",
-			"icon": "weather-cloudy"
-		},
-		{
-			"name": "Plex",
-			"url": "play.uppercenter.dev",
-			"icon": "plex"
-		},
-		{
-			"name": "Portainer",
+			"name": "Rancher",
 			"url": "port.uppercenter.dev",
-			"icon": "docker"
+			"icon": "kubernetes"
 		},
 		{
 			"name": "Radarr",
