@@ -12,47 +12,47 @@
 		},
 		{
 			"name": "CodeServer",
-			"url": "code.uppercenter.dev",
+			"url": "code.cyber.lol",
 			"icon": "vs-code"
 		},
 		{
 			"name": "BitWarden",
-			"url": "vault.uppercenter.dev",
+			"url": "vault.cyber.lol",
 			"icon": "shield-half-full"
 		},
 		{
 			"name": "Rancher",
-			"url": "rancher.uppercenter.dev",
+			"url": "rancher.cyber.lol",
 			"icon": "kubernetes"
 		},
 		{
 			"name": "Radarr",
-			"url": "movies.uppercenter.dev",
+			"url": "movies.cyber.lol",
 			"icon": "filmstrip"
 		},
 		{
 			"name": "Sonarr",
-			"url": "tv.uppercenter.dev",
+			"url": "tv.cyber.lol",
 			"icon": "television-box"
 		},
 		{
 			"name": "Stackedit",
-			"url": "md.uppercenter.dev",
+			"url": "md.cyber.lol",
 			"icon": "markdown"
 		},
 		{
 			"name": "Transmission",
-			"url": "dl.uppercenter.dev",
+			"url": "dl.cyber.lol",
 			"icon": "progress-download"
 		},
 		{
 			"name": "Ubooquity",
-			"url": "pdfs.uppercenter.dev",
+			"url": "pdfs.cyber.lol",
 			"icon": "library-shelves"
 		},
 		{
 			"name": "Youtube-DL",
-			"url": "yt.uppercenter.dev",
+			"url": "yt.cyber.lol",
 			"icon": "youtube"
 		}
 	]
