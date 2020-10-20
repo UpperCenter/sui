@@ -7,7 +7,7 @@
 		},
 		{
 			"name": "ProxMox",
-			"url": "172.16.0.12:8006",
+			"url": "172.16.0.17:8006",
 			"icon": "server"
 		},
 		{
@@ -21,9 +21,9 @@
 			"icon": "shield-half-full"
 		},
 		{
-			"name": "Rancher",
-			"url": "rancher.cyber.lol",
-			"icon": "kubernetes"
+			"name": "Yacht",
+			"url": "yacht.cyber.lol",
+			"icon": "sail-boat"
 		},
 		{
 			"name": "Radarr",
@@ -31,7 +31,7 @@
 			"icon": "filmstrip"
 		},
 		{
-			"name": "Sonarr",
+			"name": "Medusa",
 			"url": "tv.cyber.lol",
 			"icon": "television-box"
 		},
@@ -44,6 +44,11 @@
 			"name": "Transmission",
 			"url": "dl.cyber.lol",
 			"icon": "progress-download"
+		},
+		{
+			"name": "Overleaf",
+			"url": "LaTeX.cyber.lol",
+			"icon": "file-document-edit-outline"
 		},
 		{
 			"name": "Ubooquity",

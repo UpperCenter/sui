@@ -1,7 +1,24 @@
 {
 	"bookmarks": [
 		{
-			"category": "Communicate",
+			"category": "'Fun'",
+			"links": [
+				{
+					"name": "YouTube",
+					"url": "https://youtube.com/"
+				},
+				{
+					"name": "Twitter",
+					"url": "https://twitter.com/"
+				},
+				{
+					"name": "Twitch",
+					"url": "https://twitch.tv/"
+				}
+			]
+		},
+		{
+			"category": "Comms",
 			"links": [
 				{
 					"name": "Discord",
@@ -9,45 +26,53 @@
 				},
 				{
 					"name": "Gmail",
-					"url": "http://gmail.com"
+					"url": "http://mail.google.com/"
 				},
 				{
-					"name": "Slack",
-					"url": "https://slack.com/signin"
+					"name": "Teams",
+					"url": "https://teams.com/"
+				},
+				{
+					"name": "Uni Inbox",
+					"url": "http://mail.google.com/"
+				},
+				{
+					"name": "Dev Webmail",
+					"url": "https://mail.brkfst.dev/SOGo/"
 				}
 			]
 		},
 		{
-			"category": "Cloud",
+			"category": "Tools",
 			"links": [
 				{
-					"name": "Box",
-					"url": "https://box.net"
+					"name": "Github",
+					"url": "https://github.com/"
 				},
 				{
-					"name": "Dropbox",
-					"url": "https://dropbox.com"
+					"name": "Cloudflare",
+					"url": "https://dash.cloudflare.com/"
 				},
 				{
-					"name": "Drive",
-					"url": "https://drive.google.com"
+					"name": "IP Info",
+					"url": "https://ipinfo.io/"
 				}
 			]
 		},
 		{
-			"category": "Design",
+			"category": "University",
 			"links": [
 				{
-					"name": "Awwwards",
-					"url": "https://awwwards.com"
+					"name": "Azure Software",
+					"url": "https://bit.ly/AzureSoft/"
 				},
 				{
-					"name": "Dribbble",
-					"url": "https://dribbble.com"
+					"name": "Unilearn",
+					"url": "https://unilearn.southwales.ac.uk/"
 				},
 				{
-					"name": "Muz.li",
-					"url": "https://medium.muz.li/"
+					"name": "Unilife",
+					"url": "https://unilife.southwales.ac.uk/"
 				}
 			]
 		},
@@ -65,6 +90,10 @@
 				{
 					"name": "MIT Technology Review",
 					"url": "https://www.technologyreview.com/"
+				},
+				{
+					"name": "HackerNews",
+					"url": "https://hackernews.com/"
 				}
 			]
 		}
