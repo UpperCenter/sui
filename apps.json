@@ -36,14 +36,19 @@
 			"icon": "television-box"
 		},
 		{
-			"name": "Stackedit",
-			"url": "md.cyber.lol",
-			"icon": "markdown"
+			"name": "Plex",
+			"url": "plex.cyber.lol",
+			"icon": "plex"
 		},
 		{
 			"name": "Transmission",
 			"url": "dl.cyber.lol",
 			"icon": "progress-download"
+		},
+		{
+			"name": "Stackedit",
+			"url": "md.cyber.lol",
+			"icon": "markdown"
 		},
 		{
 			"name": "Overleaf",
@@ -54,11 +59,6 @@
 			"name": "Ubooquity",
 			"url": "pdfs.cyber.lol",
 			"icon": "library-shelves"
-		},
-		{
-			"name": "Youtube-DL",
-			"url": "yt.cyber.lol",
-			"icon": "youtube"
 		}
 	]
 }

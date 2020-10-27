@@ -25,12 +25,8 @@
 					"url": "https://discordapp.com/"
 				},
 				{
-					"name": "Gmail",
-					"url": "http://mail.google.com/"
-				},
-				{
 					"name": "Uni Inbox",
-					"url": "http://mail.google.com/"
+					"url": "https://outlook.office365.com/"
 				},
 				{
 					"name": "Dev Webmail",
